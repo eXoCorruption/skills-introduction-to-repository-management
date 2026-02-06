@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @eXoCorruption
+/src/backend/database.py      @eXoCorruption
+/src/backend/routers/auth.py  @eXoCorruption
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @eXoCorruption
